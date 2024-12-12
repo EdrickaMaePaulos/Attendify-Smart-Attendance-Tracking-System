@@ -102,10 +102,7 @@ src/
              └── schema.png         
  
 ```
-##	Database Diagram
-<p align="center">
-  <img src = "hehehe wait"/>
-</p>
+
 
 ##  Acknowledgments
 
@@ -115,4 +112,4 @@ src/
 - Sa getch() at ang aming ; na nakikinig sa iyak q pag nag-eerror code q
 
 Uno Cutie PLS PLS PAMASKO NA PO. BIRTHDAY Q DIN SA DEC 20!!!
----
+
