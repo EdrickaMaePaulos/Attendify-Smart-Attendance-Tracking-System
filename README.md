@@ -102,4 +102,17 @@ src/
              └── schema.png         
  
 ```
+##	Database Diagram
+<p align="center">
+  <img src = "hehehe wait"/>
+</p>
 
+##  Acknowledgments
+
+- Ms. Fatima Marie Agdon [Object-Oriented Programming Prof]
+- Mr. Owen Patrick Falculan [Database Management System Prof]
+- Yosef [aking babyloves so sweet]
+- Sa getch() at ang aming ; na nakikinig sa iyak q pag nag-eerror code q
+
+Uno Cutie PLS PLS PAMASKO NA PO. BIRTHDAY Q DIN SA DEC 20!!!
+---
