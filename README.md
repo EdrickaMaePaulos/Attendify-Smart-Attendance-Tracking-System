@@ -8,7 +8,7 @@
     <em><code>An Automated Attendance Management System</code></em>
 </p>
 <p align="center">
-	<b>CS-2202</b><br>
+	<b>CS-2101</b><br>
 	<a href="https://github.com/EdrickaMaePaulos">Edricka Mae H. Paulos</a><br>
 </p>
 <hr>
